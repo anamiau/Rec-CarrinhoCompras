@@ -1,5 +1,4 @@
-<script>
-import ConcluirCompraView from '../views/ConcluirCompraView.vue'
+<script setup>
 
 </script>
 
