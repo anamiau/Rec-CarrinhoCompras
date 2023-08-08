@@ -13,7 +13,7 @@ const form = ref({
   <div class="container">
     <div class="dadosfinais">
     <!-- <input type="text" v-model="form.dados" >
-    <button @click="atualizarDados(form)">Atualizar</button> -->
+    <button @click="atualizarDados(form)">Atualizar</but  ton> -->
     <div class="container">
       <h1 class="titulos">Compra finalizada com sucesso!</h1>
       <h2 class="titulos">Confira seus dados:</h2>
